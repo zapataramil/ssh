@@ -33,4 +33,4 @@ Se corrobora que esté en funcionamiento:
 
 ![](https://github.com/zapataramil/ssh/blob/main/src/img/instalacionSSH2.png)
 
-[Ver video ](http://https://www.youtube.com/watch?v=bjFfyyzIE5Y )
+[Ver video ](https://www.youtube.com/watch?v=bjFfyyzIE5Y )
