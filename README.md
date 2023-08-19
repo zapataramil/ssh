@@ -23,12 +23,12 @@ Es un tipo de cifrado que se utiliza para las claves publicas. Es la mas utiliza
 
 Se instala:
 
--     **sudo apt-get install openssh-server**
+-     sudo apt-get install openssh-server
 
 ![](https://github.com/zapataramil/ssh/blob/main/src/img/instalacionSSH.png)
 
 Se corrobora que este en funcionamiento:
 
--     **systemctl enable ssh**
+-     systemctl enable ssh
 
 ![](https://github.com/zapataramil/ssh/blob/main/src/img/instalacionSSH2.png)
