@@ -29,6 +29,6 @@ Se instala:
 
 Se corrobora que este en funcionamiento:
 
--    sudo systemctl enable ssh
+-     sudo systemctl enable ssh
 
 ![](https://github.com/zapataramil/ssh/blob/main/src/img/instalacionSSH2.png)
