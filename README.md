@@ -15,12 +15,12 @@
 
  El servidor envia clave publica, si coincide con la clave privada se abre un canal donde la informacion es encriptada
 
-###[RSA](https://es.wikipedia.org/wiki/RSA "Rivest, Shamir y Adleman")
+### [RSA](https://es.wikipedia.org/wiki/RSA "Rivest, Shamir y Adleman")
 
 Es un tipo de cifrado que se utiliza para las claves publicas. Es la mas utilizada por su seguridad y soporte. Su seguridad se basa en la dificultad matematica para factorizar grandes numeros semiprimos. Su soporte se basa en su antiguedad y estar distribuido en muchos sistemas.
 
-###Instalación de SSH por [Bash](https://es.wikipedia.org/wiki/Bash "Shell de Unix")
+### Instalación de SSH por [Bash](https://es.wikipedia.org/wiki/Bash "Shell de Unix")
 
-![](https://github.com/zapataramil/ssh/src/img/instalacionSSH)
+![](https://github.com/zapataramil/ssh/src/img/instalacionSSH.jpg)
 
-![](https://github.com/zapataramil/ssh/src/img/instalacionSSH2)
+![](https://github.com/zapataramil/ssh/src/img/instalacionSSH2.jpg)
