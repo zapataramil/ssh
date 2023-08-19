@@ -1,3 +1,2 @@
 # ssh
-Configuracion de claves SSH con diferentes tipos de sistemas criptograficos
-asjhdbiasufisau
+### Configuracion de claves SSH en servidores (ejemplo en particular: servidor web github)
