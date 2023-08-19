@@ -21,6 +21,6 @@ Es un tipo de cifrado que se utiliza para las claves publicas. Es la mas utiliza
 
 ### Instalación de SSH por [Bash](https://es.wikipedia.org/wiki/Bash "Shell de Unix")
 
-![](https://github.com/zapataramil/ssh/src/img/instalacionSSH.jpg)
+![](https://github.com/zapataramil/ssh/src/img/instalacionSSH.png)
 
-![](https://github.com/zapataramil/ssh/src/img/instalacionSSH2.jpg)
+![](https://github.com/zapataramil/ssh/src/img/instalacionSSH2.png)
