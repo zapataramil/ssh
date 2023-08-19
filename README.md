@@ -27,8 +27,10 @@ Se instala:
 
 ![](https://github.com/zapataramil/ssh/blob/main/src/img/instalacionSSH.png)
 
-Se corrobora que este en funcionamiento:
+Se corrobora que esté en funcionamiento:
 
 -     sudo systemctl enable ssh
 
 ![](https://github.com/zapataramil/ssh/blob/main/src/img/instalacionSSH2.png)
+
+[Ver video ](http://https://www.youtube.com/watch?v=bjFfyyzIE5Y )
