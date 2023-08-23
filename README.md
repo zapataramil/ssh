@@ -9,7 +9,6 @@
 - Copia datos de forma segura
 - Gestiona claves con el tipo de cifrado elegido
 
--     **completaaar**
 
 ### Funcionamiento
 
